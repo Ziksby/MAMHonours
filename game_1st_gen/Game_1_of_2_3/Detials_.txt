@@ -1,0 +1,21 @@
+ Mode for actions seller 1: [0.39666666666666667]
+Actions mode for seller 2 the seller 2  [0.595]
+prices1 mode [0.595]  how may : 1867
+prices2:  [0.7933333333333333]  how may : 1950
+Zeta1: 0.020161126437204538
+Zeta2: 0.04811965656695183
+S1: 36
+S2: 36
+Quality1:  0.9
+Quality2: 1.0
+Q_table max and min respectively for seller 1:  1.9101992928491103  1.5235893559788
+Q_table max and min respectively for seller 2:  1.2929279546595376  1.0650911663707843
+Risk tolerance for s1 and s2 respectively 2177.40165521809  5196.922909230798
+ Buyer chi and buyer.pb res; 0.12014380711349804  0.9916666666666667
+ Learning rate 1 and 2 res:  0.017732655569121583 0.00898586011522038
+ viMM:  0.0083333333333  0.0
+ state max:    388.0  388.0
+ eplison:  0.2881844380403458  0.2881844380403458
+ The avg reward over the whole thing :  0.11446211287795446  0.16984265093175985
+ viMM/1-gamma:  0.01894289040491061  0.0
+The gamma values res:  0.560081214895287  0.3163506297341342
